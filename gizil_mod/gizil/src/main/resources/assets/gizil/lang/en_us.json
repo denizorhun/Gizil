@@ -1,0 +1,14 @@
+{
+  "item.gizil.flower_boots": "✿ Flower Boots ✿",
+  "item.gizil.bee_helmet": "✿ Nectar's Embrace ✿",
+  "itemGroup.gizil_tab": "Gizil",
+  "item.gizil.flower_boots.tooltip": "Wherever you walk, life follows.",
+  "item.gizil.bee_helmet.tooltip": "A small guardian, sent to watch over you.",
+  "block.gizil.research_table": "Research Table",
+  "item.gizil.alchemy_ink": "Alchemy Ink",
+  "item.gizil.mild_extract": "Mild Extract",
+  "item.gizil.strong_extract": "Strong Extract",
+  "item.gizil.unstable_mixture": "Unstable Mixture",
+  "block.gizil.alchemy_table": "Alchemy Table",
+  "block.gizil.synthesis_table": "Synthesis Table"
+}

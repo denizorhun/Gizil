@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CHC",
+    " B "
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:gold_ingot"
+    },
+    "H": {
+      "item": "minecraft:honeycomb"
+    },
+    "B": {
+      "item": "minecraft:honey_bottle"
+    }
+  },
+  "result": {
+    "item": "gizil:bee_helmet",
+    "count": 1
+  }
+}

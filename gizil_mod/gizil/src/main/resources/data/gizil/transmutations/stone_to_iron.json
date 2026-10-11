@@ -1,0 +1,5 @@
+{
+  "circle": "mineral",
+  "input": { "item": "minecraft:cobblestone", "count": 5 },
+  "output": { "item": "minecraft:iron_ore", "count": 1 }
+}

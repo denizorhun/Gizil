@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "V V",
+    "FDF"
+  ],
+  "key": {
+    "V": {
+      "item": "minecraft:vine"
+    },
+    "F": {
+      "item": "minecraft:sunflower"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "gizil:flower_boots",
+    "count": 1
+  }
+}

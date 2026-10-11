@@ -1,0 +1,12 @@
+{
+  "title": "Tundra Mint",
+  "image": "gizil:textures/notebook/tundra_mint.png",
+  "subtitle": "Grows where you don't ask it to",
+  "note": "I don't know how this plant is still not frozen solid, maybe because of its fuzzy exterior(?). Still, there is a lot to research about it. But I don't think it is useful for the cure.",
+  "properties": [
+    "Its core is frozen solid, with a faint glow. And also... a bit prickly despite looking like a soft cotton ball.",
+    "Unlike its core, the plant has very soft leaves. They have a fuzzy exterior and feel almost weightless."
+  ],
+  "hint": "The chill lingers even after crushing. I suspect the mortar remembers what the leaf forgets.",
+  "diagram_symbol": "cold"
+}

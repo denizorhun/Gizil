@@ -1,0 +1,13 @@
+{
+  "title": "Mint",
+  "subtitle": "Grows where you don't ask it to",
+  "note": "Persistent, cooling, faintly medicinal. I've used it more for calming my own hands than for any formula.",
+  "properties": [
+    "Effect: cooling, mild numbing",
+    "Habit: spreads through root, not seed",
+    "Best harvested: before flowering"
+  ],
+  "hint": "The chill lingers even after crushing. I suspect the mortar remembers what the leaf forgets.",
+  "diagram_symbol": "cold",
+  "image": "gizil:textures/notebook/mint_diagram.png"
+}

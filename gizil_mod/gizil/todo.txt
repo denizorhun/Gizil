@@ -1,0 +1,4 @@
+-add particle effect when bee disappears
+-draw the torso 2d texture
+-make 3d models of the items
+-

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "V V",
+    "PGS",
+    "VEV"
+  ],
+  "key": {
+    "V": { "item": "minecraft:vine" },
+    "P": { "item": "minecraft:pink_petals" },
+    "S": { "item": "minecraft:sunflower" },
+    "G": { "item": "minecraft:golden_apple" },
+    "E": { "item": "minecraft:emerald" }
+  },
+  "result": {
+    "item": "gizil:harmony_dress",
+    "count": 1
+  }
+}
